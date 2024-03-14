@@ -1,0 +1,7 @@
+[submodule "Geeker-Admin"]
+	path = ./Geeker-Admin
+	url = git@github.com:hubertshelley/Geeker-Admin.git
+	branch = silent-admin
+[submodule "silent-admin-backend"]
+	path = ./silent-admin-backend
+	url = git@github.com:silent-rs/silent-admin-backend.git
